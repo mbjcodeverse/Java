@@ -4,5 +4,6 @@ public class AverageGrade {
         int g2 = 91;
         int g3 = 87;
         double average = (g1 + g2 + g3) / 3;
+        System.out.println("Average = " + average);
     }
 }
